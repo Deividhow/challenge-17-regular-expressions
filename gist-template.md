@@ -1,6 +1,6 @@
-# challenge-17-regex-Hex-value
+# Title (replace with your title)
 
-Regex also known as regular expressions are special characters that define a search pattern.These characters are meant to make your code more dynamic. In the folowing README i will be explaining the regex for hex value.
+Introductory paragraph (replace this with your text)
 
 ## Summary
 
